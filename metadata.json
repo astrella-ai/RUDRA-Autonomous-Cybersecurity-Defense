@@ -1,0 +1,6 @@
+{
+  "name": "Device Connect",
+  "description": "Secure device pairing and synchronization manager with real-time status and notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

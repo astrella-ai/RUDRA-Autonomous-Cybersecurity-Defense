@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Device Connect</string>
+    <string name="title_connected_devices">Connected Hardware</string>
+    <string name="btn_pair_device">Pair Device</string>
+    <string name="pairing_in_progress">Pairing in Progress</string>
+    <string name="pair_success_toast">Device paired successfully and securely verified!</string>
+    <string name="status_ready_to_pair">Ready to pair</string>
+    <string name="status_paired">Securely Paired</string>
+    <string name="status_quarantined">Isolated / Quarantined</string>
+    <string name="title_threat_monitor">Security Health &amp; Threat Defense</string>
+    <string name="remediation_triggered_title">Automated Remediation Protocol Activated</string>
+    <string name="title_activity_log">Security Remediation Audit Log</string>
+    <string name="empty_activity_log">No remediation actions recorded yet. All sessions normal.</string>
+    <string name="btn_clear_log">Clear Log</string>
+</resources>
